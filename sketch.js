@@ -16,7 +16,7 @@ let training_data = [{
 }
 ];
 
-var nn = new NeuralNetwork(2, 4, 1, 0.05);
+var nn = new NeuralNetwork(2, 6, 1, 0.05);
 const frameRateText = document.getElementById("frameRate");
 
 var DIM = 100;

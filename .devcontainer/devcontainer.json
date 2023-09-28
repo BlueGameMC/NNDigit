@@ -2,7 +2,8 @@
 	"image": "mcr.microsoft.com/devcontainers/universal:2",
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/npm-package:1": {},
-		"ghcr.io/jayree/devcontainer-features/npm-registry:1": {}
+		"ghcr.io/jayree/devcontainer-features/npm-registry:1": {},
+		"ghcr.io/devcontainers-contrib/features/jshint:2": {}
 	},
     "customizations": {
         "vscode": {
