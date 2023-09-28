@@ -1,0 +1,17 @@
+{
+    "name": "DigitNetwork",
+    "version": "1.0.0",
+    "description": "puter",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "me",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "~1.6.2"
+    },
+    "dependencies": {
+        "gpu.js": "^2.16.0"
+    }
+}
